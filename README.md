@@ -1,4 +1,4 @@
-	Linear Classification with Tensorflow 2.0
+Linear Classification with Tensorflow 2.0
 
 AIGenius Machine Learning Mini Course - Linear Classification With Tensorflow 2.0
 
